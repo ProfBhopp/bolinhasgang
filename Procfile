@@ -1,1 +1,1 @@
-Worker: java ./src/main/java/com/jagrosh/jmusicbot/JMusicBot.java
+Worker: java -jar ./src/main/java/com/jagrosh/jmusicbot/JMusicBot.jar
